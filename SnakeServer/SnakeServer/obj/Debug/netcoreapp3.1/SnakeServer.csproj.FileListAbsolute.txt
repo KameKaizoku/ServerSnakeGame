@@ -1,0 +1,65 @@
+C:\Users\annaf\OneDrive\Рабочий стол\Новая папка\CSharp2020\SnakeServer\SnakeServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\annaf\OneDrive\Рабочий стол\Новая папка\CSharp2020\SnakeServer\SnakeServer\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\annaf\OneDrive\Рабочий стол\Новая папка\CSharp2020\SnakeServer\SnakeServer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\annaf\OneDrive\Рабочий стол\Новая папка\CSharp2020\SnakeServer\SnakeServer\bin\Debug\netcoreapp3.1\SnakeServer.exe
+C:\Users\annaf\OneDrive\Рабочий стол\Новая папка\CSharp2020\SnakeServer\SnakeServer\bin\Debug\netcoreapp3.1\SnakeServer.deps.json
+C:\Users\annaf\OneDrive\Рабочий стол\Новая папка\CSharp2020\SnakeServer\SnakeServer\bin\Debug\netcoreapp3.1\SnakeServer.runtimeconfig.json
+C:\Users\annaf\OneDrive\Рабочий стол\Новая папка\CSharp2020\SnakeServer\SnakeServer\bin\Debug\netcoreapp3.1\SnakeServer.runtimeconfig.dev.json
+C:\Users\annaf\OneDrive\Рабочий стол\Новая папка\CSharp2020\SnakeServer\SnakeServer\bin\Debug\netcoreapp3.1\SnakeServer.dll
+C:\Users\annaf\OneDrive\Рабочий стол\Новая папка\CSharp2020\SnakeServer\SnakeServer\bin\Debug\netcoreapp3.1\SnakeServer.pdb
+C:\Users\annaf\OneDrive\Рабочий стол\Новая папка\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\SnakeServer.csprojAssemblyReference.cache
+C:\Users\annaf\OneDrive\Рабочий стол\Новая папка\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\SnakeServer.csproj.CoreCompileInputs.cache
+C:\Users\annaf\OneDrive\Рабочий стол\Новая папка\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\SnakeServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\annaf\OneDrive\Рабочий стол\Новая папка\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\SnakeServer.AssemblyInfoInputs.cache
+C:\Users\annaf\OneDrive\Рабочий стол\Новая папка\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\SnakeServer.AssemblyInfo.cs
+C:\Users\annaf\OneDrive\Рабочий стол\Новая папка\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\SnakeServer.RazorTargetAssemblyInfo.cache
+C:\Users\annaf\OneDrive\Рабочий стол\Новая папка\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\staticwebassets\SnakeServer.StaticWebAssets.Manifest.cache
+C:\Users\annaf\OneDrive\Рабочий стол\Новая папка\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\staticwebassets\SnakeServer.StaticWebAssets.xml
+C:\Users\annaf\OneDrive\Рабочий стол\Новая папка\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\SnakeServer.dll
+C:\Users\annaf\OneDrive\Рабочий стол\Новая папка\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\SnakeServer.pdb
+C:\Users\annaf\OneDrive\Рабочий стол\Новая папка\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\SnakeServer.genruntimeconfig.cache
+C:\Users\annaf\OneDrive\Рабочий стол\Новая папка\CSharp2020\SnakeServer\SnakeServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\annaf\OneDrive\Рабочий стол\Новая папка\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\SnakeServer.csproj.CopyComplete
+C:\Users\annaf\OneDrive\Рабочий стол\C#\CSharp2020\SnakeServer\SnakeServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\annaf\OneDrive\Рабочий стол\C#\CSharp2020\SnakeServer\SnakeServer\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\annaf\OneDrive\Рабочий стол\C#\CSharp2020\SnakeServer\SnakeServer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\annaf\OneDrive\Рабочий стол\C#\CSharp2020\SnakeServer\SnakeServer\bin\Debug\netcoreapp3.1\SnakeServer.exe
+C:\Users\annaf\OneDrive\Рабочий стол\C#\CSharp2020\SnakeServer\SnakeServer\bin\Debug\netcoreapp3.1\SnakeServer.deps.json
+C:\Users\annaf\OneDrive\Рабочий стол\C#\CSharp2020\SnakeServer\SnakeServer\bin\Debug\netcoreapp3.1\SnakeServer.runtimeconfig.json
+C:\Users\annaf\OneDrive\Рабочий стол\C#\CSharp2020\SnakeServer\SnakeServer\bin\Debug\netcoreapp3.1\SnakeServer.runtimeconfig.dev.json
+C:\Users\annaf\OneDrive\Рабочий стол\C#\CSharp2020\SnakeServer\SnakeServer\bin\Debug\netcoreapp3.1\SnakeServer.dll
+C:\Users\annaf\OneDrive\Рабочий стол\C#\CSharp2020\SnakeServer\SnakeServer\bin\Debug\netcoreapp3.1\SnakeServer.pdb
+C:\Users\annaf\OneDrive\Рабочий стол\C#\CSharp2020\SnakeServer\SnakeServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\annaf\OneDrive\Рабочий стол\C#\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\SnakeServer.csprojAssemblyReference.cache
+C:\Users\annaf\OneDrive\Рабочий стол\C#\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\SnakeServer.csproj.CoreCompileInputs.cache
+C:\Users\annaf\OneDrive\Рабочий стол\C#\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\SnakeServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\annaf\OneDrive\Рабочий стол\C#\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\SnakeServer.AssemblyInfoInputs.cache
+C:\Users\annaf\OneDrive\Рабочий стол\C#\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\SnakeServer.AssemblyInfo.cs
+C:\Users\annaf\OneDrive\Рабочий стол\C#\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\SnakeServer.RazorTargetAssemblyInfo.cache
+C:\Users\annaf\OneDrive\Рабочий стол\C#\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\SnakeServer.csproj.CopyComplete
+C:\Users\annaf\OneDrive\Рабочий стол\C#\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\staticwebassets\SnakeServer.StaticWebAssets.Manifest.cache
+C:\Users\annaf\OneDrive\Рабочий стол\C#\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\staticwebassets\SnakeServer.StaticWebAssets.xml
+C:\Users\annaf\OneDrive\Рабочий стол\C#\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\SnakeServer.dll
+C:\Users\annaf\OneDrive\Рабочий стол\C#\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\SnakeServer.pdb
+C:\Users\annaf\OneDrive\Рабочий стол\C#\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\SnakeServer.genruntimeconfig.cache
+C:\Users\Xiaomi\Desktop\Csharp\CSharp2020\SnakeServer\SnakeServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Xiaomi\Desktop\Csharp\CSharp2020\SnakeServer\SnakeServer\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Xiaomi\Desktop\Csharp\CSharp2020\SnakeServer\SnakeServer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Xiaomi\Desktop\Csharp\CSharp2020\SnakeServer\SnakeServer\bin\Debug\netcoreapp3.1\SnakeServer.exe
+C:\Users\Xiaomi\Desktop\Csharp\CSharp2020\SnakeServer\SnakeServer\bin\Debug\netcoreapp3.1\SnakeServer.deps.json
+C:\Users\Xiaomi\Desktop\Csharp\CSharp2020\SnakeServer\SnakeServer\bin\Debug\netcoreapp3.1\SnakeServer.runtimeconfig.json
+C:\Users\Xiaomi\Desktop\Csharp\CSharp2020\SnakeServer\SnakeServer\bin\Debug\netcoreapp3.1\SnakeServer.runtimeconfig.dev.json
+C:\Users\Xiaomi\Desktop\Csharp\CSharp2020\SnakeServer\SnakeServer\bin\Debug\netcoreapp3.1\SnakeServer.dll
+C:\Users\Xiaomi\Desktop\Csharp\CSharp2020\SnakeServer\SnakeServer\bin\Debug\netcoreapp3.1\SnakeServer.pdb
+C:\Users\Xiaomi\Desktop\Csharp\CSharp2020\SnakeServer\SnakeServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Xiaomi\Desktop\Csharp\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\SnakeServer.csprojAssemblyReference.cache
+C:\Users\Xiaomi\Desktop\Csharp\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\staticwebassets\SnakeServer.StaticWebAssets.Manifest.cache
+C:\Users\Xiaomi\Desktop\Csharp\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\staticwebassets\SnakeServer.StaticWebAssets.xml
+C:\Users\Xiaomi\Desktop\Csharp\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\SnakeServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Xiaomi\Desktop\Csharp\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\SnakeServer.AssemblyInfoInputs.cache
+C:\Users\Xiaomi\Desktop\Csharp\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\SnakeServer.AssemblyInfo.cs
+C:\Users\Xiaomi\Desktop\Csharp\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\SnakeServer.RazorTargetAssemblyInfo.cache
+C:\Users\Xiaomi\Desktop\Csharp\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\SnakeServer.csproj.CopyComplete
+C:\Users\Xiaomi\Desktop\Csharp\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\SnakeServer.dll
+C:\Users\Xiaomi\Desktop\Csharp\CSharp2020\SnakeServer\SnakeServer\obj\Debug\netcoreapp3.1\SnakeServer.pdb
+C:\Users\annaf\OneDrive\Рабочий стол\C#\CSharp2020\SnakeServer\SnakeServer\bin\Debug\netcoreapp3.1\GameState.json

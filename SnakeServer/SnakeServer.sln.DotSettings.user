@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=023ea60c_002D1f44_002D4d41_002D959a_002D33dfdd718993/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestBump" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4120BF33-BBF3-46FE-BA42-8EB9F1B7EF69::.NETCoreApp,Version=v3.1::SnakeServer.test.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=36778bf7_002Db44b_002D4d2a_002Db43a_002D4fca963ab6b7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestBump #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4120BF33-BBF3-46FE-BA42-8EB9F1B7EF69::.NETCoreApp,Version=v3.1::SnakeServer.test.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

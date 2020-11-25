@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeServer", "SnakeServer\SnakeServer.csproj", "{48E4468A-762D-4546-880A-D52C7A7E95C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeServer.test", "SnakeServer.test\SnakeServer.test.csproj", "{4120BF33-BBF3-46FE-BA42-8EB9F1B7EF69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48E4468A-762D-4546-880A-D52C7A7E95C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E4468A-762D-4546-880A-D52C7A7E95C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E4468A-762D-4546-880A-D52C7A7E95C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E4468A-762D-4546-880A-D52C7A7E95C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4120BF33-BBF3-46FE-BA42-8EB9F1B7EF69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4120BF33-BBF3-46FE-BA42-8EB9F1B7EF69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4120BF33-BBF3-46FE-BA42-8EB9F1B7EF69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4120BF33-BBF3-46FE-BA42-8EB9F1B7EF69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

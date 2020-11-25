@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yaVvvDAvU/XjQAWeNG099CMXFKQYu7SutxD/4W08UWTHjHMOWyA2ghHVjRf2lG145VmnziC5xm4wz2QyezoCWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\annaf\\OneDrive\\Рабочий стол\\C#\\CSharp2020\\SnakeServer\\SnakeServer\\SnakeServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\annaf\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
